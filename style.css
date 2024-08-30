@@ -1,6 +1,12 @@
 body{
     background-color: aqua;
 }
+
+P{
+    color: black;
+}
+
 p{
     font-size:50px;
 }
+
